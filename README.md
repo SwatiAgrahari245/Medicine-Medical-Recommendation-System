@@ -1,2 +1,2 @@
-# Medicine-Medical-Recommendation-System
-<b font size="10">Aim/Purpose:</b>  This study aims to devise a personalized solution for online healthcare plat forms that can alleviate problems arising from information overload and data sparsity by providing personalized healthcare services to patients. The primary focus of this paper is to develop an effective medicine recommendation approach for recommending suitable medications to patients based on their specific medical conditions.
+Medicine-Medical Recommendation System
+This is a Medicine-Medical Recommendation System designed to help users get medical recommendations for various diseases based on symptoms. The system aims to assist healthcare professionals and individuals by providing suggestions for potential medical conditions and the corresponding medicines based on user-inputted symptoms.
