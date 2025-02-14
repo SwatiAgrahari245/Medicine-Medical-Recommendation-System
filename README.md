@@ -44,8 +44,6 @@ The **Medicine-Medical Recommendation System** is a machine learning-based appli
    ```sh
    python app.py
    ```
-5. **Access the Application**
-   - Open your browser and go to `http://127.0.0.1:5000/`
 
 ## Usage
 
@@ -89,5 +87,4 @@ For any queries or suggestions, feel free to reach out:
 
 ---
 
-Enjoy using the **Medicine-Medical Recommendation System**! 🚀
 
