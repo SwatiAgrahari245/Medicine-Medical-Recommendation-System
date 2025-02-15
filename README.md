@@ -1,7 +1,6 @@
 # Medicine-Medical Recommendation System
 
 ![Screenshot 2025-02-15 091219](https://github.com/user-attachments/assets/a97c37c2-cb5e-409d-90c1-3a8f3c4f5b0b)
-
 ## Overview
 
 The **Medicine-Medical Recommendation System** is a machine learning-based application designed to help users identify potential medical conditions and recommend treatments based on inputted symptoms. This system provides a user-friendly interface where users can enter their symptoms, receive possible disease predictions, and obtain appropriate medication or treatment suggestions.
